@@ -33,7 +33,7 @@ Ces technologies ont été choisies pour leur fiabilité, leur popularité et le
 Pour cloner le projet, suivez les étapes suivantes :
 
 - Ouvrez un terminal et déplacez-vous dans le répertoire où vous souhaitez cloner le projet.
-- Tapez la commande suivante : git clone https://github.com/audreypercherancier/ProjetEncheresENI.git, où ProjetEncheresENI est le nom du dépôt Git du projet.
+- Tapez la commande suivante : git clone (https://github.com/Ragnarohf/ProjetEnchereEni.git), où ProjetEncheresENI est le nom du dépôt Git du projet.
 - Appuyez sur Entrée pour cloner le projet sur votre machine.
 
 Pour faire fonctionner le projet, suivez les étapes suivantes :
